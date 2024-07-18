@@ -6,9 +6,10 @@ speed('fast')
 #     total += 5
 #     fd(total)
 #     lt(90)
-total  = 0
-while total < 1000:
-    total += 5
-    fd(total)
-    lt(60)
-mainloop()
+# total  = 0
+# while total < 1000:
+#     total += 5
+#     fd(total)
+#     lt(59)
+# mainloop()
+#
