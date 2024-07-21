@@ -1,6 +1,7 @@
-from turtle import *
-speed('fast')
-# pencolor('purple')
+# from turtle import *
+# speed('fast')
+# pencolor('yellow')
+# bgcolor('black')
 # total = 0
 # while total < 100:
 #     total += 5
@@ -12,4 +13,4 @@ speed('fast')
 #     fd(total)
 #     lt(59)
 # mainloop()
-#
+
