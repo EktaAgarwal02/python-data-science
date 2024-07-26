@@ -27,7 +27,6 @@ speed('slowest')
 #     lt(25)
 #     end_fill()
 
-s = 
 
 mainloop()
 
